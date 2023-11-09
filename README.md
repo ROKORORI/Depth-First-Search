@@ -3,4 +3,4 @@
 - Algorithm problem solve
     
     - common DFS
-        - [BOJ 24479](https://github.com/ROKORORI/Dynamic-Programming/blob/master/DP_knapsack%20problem.py)
+        - [BOJ 24479](https://github.com/ROKORORI/Depth-First-Search/blob/master/DFS_1.py)
